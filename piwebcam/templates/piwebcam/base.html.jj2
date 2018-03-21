@@ -4,9 +4,14 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="{% static 'piwebcam/style.css' %}">
-    <title>PiWebServer</title>
+    <title>PiWebCam</title>
   </head>
   <body>
-
+    <header class=white-on-black>
+      PiWebCam
+    </header>
+    <section class="page-section">
+      <h1>Hello from PiWebCam!</h1>
+    </section>
   </body>
 </html>
