@@ -15,6 +15,10 @@ body {
   padding: 25px;
 }
 
+.page-section * {
+  margin: 5px;
+}
+
 .page-section h1 {
   text-align: center;
 }
