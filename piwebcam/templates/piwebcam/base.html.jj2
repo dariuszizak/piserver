@@ -12,6 +12,7 @@
     </header>
     <section class="page-section">
       <h1>Hello from PiWebCam!</h1>
+      <img src="{% static "piwebcam/image.jpg"%}" alt="">
     </section>
   </body>
 </html>
