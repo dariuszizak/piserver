@@ -3,6 +3,12 @@ body {
   padding: 25px;
 }
 
+header {
+  height: 150px;
+  width: 100%;
+  text-align: center;
+}
+
 .white-on-black {
   background-color: black;
   color: white;
